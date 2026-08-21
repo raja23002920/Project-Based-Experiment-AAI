@@ -55,7 +55,7 @@ print("Sample Positive Feedback:")
 print(positive_feedback.head(5))
 ```
 <H3>Output:</H3>
-<img width="734" height="670" alt="image" src="https://github.com/user-attachments/assets/94e76bfd-5b4a-42f8-8740-ed9ec9094b48" />
+<img width="916" height="839" alt="image" src="https://github.com/user-attachments/assets/02df8bf1-d22d-45d3-9cb7-481a8903a675" />
 
 <H3>Inference:</H3>
 In this project, I learned how to use Python to perform basic sentiment analysis on text data. I was able to classify comments as positive, negative, or neutral and filter out the positive feedback. This helped me get hands-on practice with Python libraries like pandas and TextBlob and understand how sentiment analysis works on social media data.
